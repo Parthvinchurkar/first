@@ -4,6 +4,6 @@ learning github
 
 <b>Parth vinchurkar</b>
 <br>
-<i>Virat Kohli</i>
+<i><b>Virat Kohli</b></i>
 <br>
 hello github
